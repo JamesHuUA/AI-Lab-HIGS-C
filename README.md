@@ -51,3 +51,6 @@ For further documentation, please visit the official documentation sites for the
 - [**selenium**](https://www.selenium.dev/selenium/docs/api/py/)
 - [**pandas**](https://pandas.pydata.org/docs/)
 - [**tqdm**](https://tqdm.github.io/)
+
+## Dissemination and Awknowledgement
+For parties outside of the University of Arizona AI Lab, please email Brandi Gaulin at [brandig@arizona.edu](brandig@arizona.edu) to obtain permission for use. For any projects and publications, please include James Lee Hu, [Dr. Hsinchun Chen](https://eller.arizona.edu/people/hsinchun-chen), and the [University of Arizona AI Lab](https://eller.arizona.edu/departments-research/centers-labs/artificial-intelligence) in an awknowledgement in final project. 
