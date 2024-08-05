@@ -35,7 +35,7 @@ Installation occurs through several steps:
 3. Visit [https://github.com/mozilla/geckodriver/releases/](https://github.com/mozilla/geckodriver/releases/) to download the latest, OS-specific FireFox driver.
 
 ## Usage
-Provided files can already be used to run an example crawl. To run, execute the following command in the CMD or run crawler.py in your prefered CMD:
+Provided files can already be used to run an example crawl. To run, execute the following command in the CMD or run crawler.py in your prefered IDE:
 
 ```bash
 python crawler.py
