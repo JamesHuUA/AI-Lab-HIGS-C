@@ -27,12 +27,17 @@ The HIGS-C repository contains all necessary folders and files for operation:
 ## Installation
 Installation occurs through several steps:
 
-1. Download this repository
-2. Navigate to location and install requirements via PIP: 
+1. Ensure that the [FireFox](https://www.mozilla.org/en-US/firefox/) web browser is downloaded. 
+2. Download this repository. The git command is as follows:
+   ```bash
+	git clone https://github.com/JamesHuUA/AI-Lab-HIGS-C.git
+	```
+   
+3. Navigate to location and install requirements via pip: 
 	```bash
 	pip install -r requirements.txt
 	```
-3. Visit [https://github.com/mozilla/geckodriver/releases/](https://github.com/mozilla/geckodriver/releases/) to download the latest, OS-specific FireFox driver.
+4. Visit [https://github.com/mozilla/geckodriver/releases/](https://github.com/mozilla/geckodriver/releases/) to download the latest, OS-specific FireFox driver.
 
 ## Usage
 Provided files can already be used to run an example crawl. To run, execute the following command in the CMD or run crawler.py in your prefered IDE:
